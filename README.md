@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Hadrien 👋
 
 :seedling: Passionate about computer science, I'm currently student at 19 (42 Network) in Brussels.
 
