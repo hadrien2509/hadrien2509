@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passionate about computer science, I'm currently student at 19 (42 Network) in Brussels.
+:seedling: Passionate about computer science, I'm currently student at 19 (42 Network) in Brussels.
 
 [![hgeissle's 42 stats](https://badge42.vercel.app/api/v2/cll6ds30g004608l9ojc913f9/stats?cursusId=21&coalitionId=52)](https://github.com/JaeSeoKim/badge42)
 
