@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,dotnet,django,react,azure,aws,terraform,java,c,cpp,docker,git,linux,django,nodejs,bots,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,dotnet,django,node.js,react,azure,aws,terraform,java,c,cpp,docker,git,linux,bash,bots,html)](https://skillicons.dev)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadrien2509&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="hadrien2509" />
