@@ -1,8 +1,6 @@
 ### Hi there, I'm Hadrien 👋
 
-:seedling: Passionate about computer science, I'm currently student at 19 (42 Network) in Brussels.
-
-[![hgeissle's 42 stats](https://badge42.vercel.app/api/v2/cll6ds30g004608l9ojc913f9/stats?cursusId=21&coalitionId=52)](https://github.com/JaeSeoKim/badge42)
+:seedling: Passionate about computer science, I'm currently student at 19 (42 Network) in Brussels and software engineer intern at Deloitte.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,c,cpp,docker,git,linux,django,nodejs,bots,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,dotnet,react,azure,aws,terraform,java,c,cpp,docker,git,linux,django,nodejs,bots,html)](https://skillicons.dev)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hadrien2509&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="hadrien2509" />
